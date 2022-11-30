@@ -13,8 +13,8 @@ labels:
 
 Click [here](https://youtu.be/NF6ctpJZDvI) to view a PowerPoint screencast presentation covering the design of each page on my site. 
 
-###### Mapping the site path
-![sitemap]
+##### Mapping the site path
+![sitemap](https://github.com/bvytr/bvytr.github.io/blob/main/essays/Images/Site%20map.png?raw=true)
 
 #### 2. Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.
 
